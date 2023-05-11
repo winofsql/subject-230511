@@ -20,6 +20,6 @@ if exist c:\Users\%USERNAME%\Downloads\subject3 (
 	rmdir .git /S /Q 
 	Code lightbox.code-workspace
 )
-\```
+```
 このバッチファイルの内容を箇条書きで解説してください
 ```
