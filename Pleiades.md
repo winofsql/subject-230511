@@ -21,9 +21,9 @@
 ### いったん Eclipse を閉じる
 - ショートカット作成
 - 実行
-- パースペクティブを Java
+- パースペクティブを Java に変更
 - Java プロジェクト作成
-- Class 作成
+- src を選択して Class 作成
   - Main
   - public static void main にチェック
 - 自動 import は CTRL + SHIFT + O
