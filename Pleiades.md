@@ -15,5 +15,5 @@
 
 ![image](https://github.com/winofsql/subject-230511/assets/1501327/a7e4d94b-9518-4fe0-832c-1ce707a0d6e2)
 
-### いったん 
+### いったん Eclipse を閉じる
 - ショートカット作成
