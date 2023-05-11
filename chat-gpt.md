@@ -46,8 +46,8 @@ if exist c:\Users\%USERNAME%\Downloads\subject3 (
    - 「subject3」フォルダに移動します。
    - 「.git」フォルダを再帰的に削除します。
    - Visual Studio Codeで「lightbox.code-workspace」ファイルを開きます。
-<pre>
-***このバッチファイルの目的は、GitHub上の「winofsql/subject3.git」リポジトリをクローンし、***
-Visual Studio Codeでその中の「lightbox.code-workspace」ファイルを開くことです。
-また、既に「subject3」フォルダが存在する場合は、フォルダ名を日付と乱数を含む形式に変更します。
-</pre>
+
+***このバッチファイルの目的は、GitHub上の「winofsql/subject3.git」リポジトリをクローンし、\
+Visual Studio Codeでその中の「lightbox.code-workspace」ファイルを開くことです。\
+また、既に「subject3」フォルダが存在する場合は、フォルダ名を日付と乱数を含む形式に変更します。***
+
