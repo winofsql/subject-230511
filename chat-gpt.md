@@ -1,7 +1,7 @@
 ### ChatGPT にバッチファイルの説明をさせる
 
 ```
-\```
+```
 @echo off
 title subject
 if exist c:\Users\%USERNAME%\Downloads\subject3 (
