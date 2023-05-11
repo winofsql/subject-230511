@@ -19,4 +19,13 @@
 
 
 ### いったん Eclipse を閉じる
-- ショートカット作成
+- ショートカット
+- 実行
+- パースペクティブを Java
+- Java プロジェクト作成
+- Class 作成
+  - Main
+  - public static void main にチェック
+- 自動 import は CTRL + SHIFT + O
+
+
