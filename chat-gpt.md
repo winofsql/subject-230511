@@ -24,6 +24,7 @@ if exist c:\Users\%USERNAME%\Downloads\subject3 (
 このバッチファイルの内容を箇条書きで解説してください
 ```
 
+### ChatGPT
 このバッチファイルは、以下の内容を実行します。
 
 1. バッチファイルのタイトルを「subject」と設定します。
