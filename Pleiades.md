@@ -17,7 +17,7 @@
 
 ![image](https://github.com/winofsql/subject-230511/assets/1501327/33457034-068a-4578-9e4e-46cee8718561)
 
-ここまでを G ドライブを使って実行するスクリプト
+### ここまでを G ドライブを使って実行するスクリプト
 ```vbscript
 Set objShellApplication = CreateObject("Shell.Application")
 If WScript.Arguments.Count = 0 Then
